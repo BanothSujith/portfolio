@@ -395,7 +395,7 @@ meter::-webkit-meter-optimum-value {
         background: rgb(53, 53, 255);
     }
    
-@media (min-width:301px) and (max-width:700px){
+@media (min-width:501px) and (max-width:700px){
     #home {
         display: grid;
 grid-template-columns: auto;
@@ -431,6 +431,7 @@ grid-template-columns: auto;
         #projects{
             height: auto;
         }
+       
        
     .con-heading{
         font-size:1rem;
@@ -484,7 +485,7 @@ grid-template-columns: auto;
         color: rgb(26, 214, 160);
     }
 }
-@media (max-width:300px) {
+@media (max-width:400px) {
     .nav-bar{
         display: none;
     }
@@ -524,6 +525,9 @@ grid-template-columns: auto;
         #projects{
             height: auto;
         }
+    .project{
+        flex-basis: 70%;
+       }
        
     .con-heading{
         font-size:1rem;
