@@ -9,6 +9,7 @@
 
 body {
     overflow-x: hidden; 
+    min-width:100vw;
       
 }
  .nav-bar {
