@@ -501,8 +501,9 @@ grid-template-columns: auto;
       gap:15px;
     }
     .profile img {
-        width: 190px;
+        width: 250px;
         height: auto;
+         filter: grayscale(0%);
         margin-top: 20px;
     }
     .container{
