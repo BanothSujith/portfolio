@@ -51,7 +51,7 @@ body {
 }
 #home {
     padding: 50px 20px;
-    height: 100vh; 
+    height:auto; 
     display: flex;
     align-items:center;
     justify-content: space-evenly;
@@ -156,7 +156,7 @@ footer{
 
 #about{
     width: 100%;
-    height:100vh;
+    height:auto;
     display: flex;
     text-align: center;
     justify-content: center;
@@ -203,7 +203,7 @@ footer{
 #projects {
     background-color: #21213c;
     width: 100%;
-    height: 100vh;
+    height: auto;
 }
 #projects h1 {
     color: aqua;
