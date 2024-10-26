@@ -478,11 +478,11 @@ grid-template-columns: auto;
 @keyframes flow{
     0%{
        
-        transform: scale(0.9);
+        transform: scale(0.1);
         color:rgb(127, 127, 255);
     }
     100%{
-        transform: scale(1.5);
+        transform: scale(1);
         color: rgb(26, 214, 160);
     }
 }
