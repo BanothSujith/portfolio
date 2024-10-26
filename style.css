@@ -456,12 +456,12 @@ grid-template-columns: auto;
 
 @keyframes slide {
     0% {
-        transform: translateX(0);
+        transform: translateY(0);
         color:rgb(244, 218, 224);
     }
 
     100% {
-        transform: translateX(60px);
+        transform: translateY(10px);
         color:yellowgreen;
     }
 }
