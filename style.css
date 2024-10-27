@@ -9,6 +9,7 @@
 
 body {
     overflow-x: hidden;
+    overscroll-behavior:none;
 }
  .nav-bar {
     background-color: rgba(255, 255, 255, 0.253);
